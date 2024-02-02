@@ -1,0 +1,10 @@
+MONGODB_HOST: mongodb-dev.daws76s.tech  # submit your host
+REDIS_HOST: redis-dev.daws76s.tech 
+MYSQL_HOST: mysql-dev.daws76s.tech 
+RABBITMQ_HOST: rabbitmq-dev.daws76s.tech 
+CATALOGUE_HOST: catalogue-dev.daws76s.tech 
+USER_HOST: user-dev.daws76s.tech 
+CART_HOST: cart-dev.daws76s.tech 
+SHIPPING_HOST: shipping-dev.daws76s.tech 
+PAYMENT_HOST: payment-dev.daws76s.tech 
+DISPATCH_HOST: dispatch-dev.daws76s.tech 
